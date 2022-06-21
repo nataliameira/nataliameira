@@ -26,7 +26,7 @@
   <img align="center" alt="Nat-PyCharm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"  title="PyCharm" />
   <img align="center" alt="Nat-Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" />
   <img align="center" alt="Nat-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" />
-  <img height="120em" align="right" alt="Nat" src="https://media.discordapp.net/attachments/883099453895106601/883099570828116018/natgif.gif?width=434&height=434">
+  <img height="100em" align="right" alt="Nat" src="https://media.discordapp.net/attachments/883099453895106601/883099570828116018/natgif.gif?width=434&height=434">
 </div>
   
   ##
